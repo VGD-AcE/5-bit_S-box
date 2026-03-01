@@ -1,4 +1,4 @@
-# EAI-MobiQuitous-2025
+# 5-bit_S-box
 
 🚀 Fault Injection Experiments on SHAMASH and Ascon/ISAP/Sycon
 This repository contains C++ source code and experiment output files used for differential fault analysis (DFA) on lightweight authenticated encryption schemes. The code supports fault injection and statistical recovery of S-box inputs under bit-stuck faults.
@@ -46,10 +46,6 @@ Fault injection patterns per round
 Differential output
 
 Input recovery stats per nibble and average over 64 S-boxes
-
-📌 Reference
-This code and dataset support our submission to the
-EAI MobiQuitous 2025 Conference – focused on lightweight cipher DFA evaluation.
 
 📄 License
 This repository is for academic/research reference only.
