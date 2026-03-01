@@ -1,6 +1,6 @@
 5-bit S-box DFA Repository
 
-🚀 Fault Injection Experiments on SHAMASH, Ascon, ISAP, and Sycon
+  🚀 Fault Injection Experiments on SHAMASH, Ascon, ISAP, and Sycon
 
 This repository provides the C++ source code and experiment output files for conducting Differential Fault Analysis (DFA) on lightweight authenticated encryption schemes with 5-bit S-boxes. The focus of this work is on fault injection and the statistical recovery of S-box inputs under bit-stuck fault models. This repository specifically targets algorithms like SHAMASH, Ascon, ISAP, and Sycon.
 
